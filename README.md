@@ -2,7 +2,7 @@
 
 Author: Roni Herschmann
 
-A single-file Q-learning agent that learns to navigate a 2D grid world with walls to reach a goal. Built in pure C for speed and clarity—great for showcasing systems skills and AI fundamentals.
+A single-file Q-learning agent that learns to navigate a 2D grid world with walls to reach a goal. 
 
 ## Highlights
 
